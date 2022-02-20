@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstChat</string>
+    <string name="SendMessage">Send</string>
+    <string name="EnterMessage">Enter your message:</string>
+    <string name="GoogleSignIn">SignIn with Google</string>
+    <string name="GoogleSignOut">SignOut</string>
+    <string name="VersView">Test common chat on firebase</string>
+</resources>

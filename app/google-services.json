@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "318933739822",
+    "firebase_url": "https://fisrtchat-93973-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fisrtchat-93973",
+    "storage_bucket": "fisrtchat-93973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318933739822:android:9d120e93644fcdb73432bf",
+        "android_client_info": {
+          "package_name": "com.example.firstchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318933739822-8b0ndpgpcvimeeiverc1iv4f6teigd66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstchat",
+            "certificate_hash": "c6880e157b4909c1c94baf8e4c87e9d0fc9c5abc"
+          }
+        },
+        {
+          "client_id": "318933739822-cfjjlntnss3bu5k6k2ikggg6geq5iflv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vkYuvLZSi3ObiqwQoBwiXeGBS2QogAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318933739822-cfjjlntnss3bu5k6k2ikggg6geq5iflv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
